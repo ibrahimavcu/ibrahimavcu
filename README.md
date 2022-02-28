@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Avcu</h1>
 <h3 align="center">A passionate frontend and backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [otoradyator.com](https://otoradyator.com)
-
 - 🌱 I’m currently learning **GoLang and Flutter**
 
 - 📫 How to reach me **ibrahimavcu19@gmail.com**
